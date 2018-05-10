@@ -1,2 +1,2 @@
 # cin
-for a site
+for a sample site
